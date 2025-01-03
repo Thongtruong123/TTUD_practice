@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728416364 source:d:\third_year\applied_algorithm\ktlt_ver1\main.c
+	<stdio.h>
+	<string.h>
+
